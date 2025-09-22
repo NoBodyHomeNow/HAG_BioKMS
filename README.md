@@ -41,7 +41,7 @@ Output: Predicted link score
 Clone the repo and install requirements:
 
 ```bash
-git clone https://github.com/<your-org>/HAG-BioKMS.git
+git clone https://github.com/NoBodyHomeNow/HAG-BioKMS.git
 cd HAG-BioKMS
 
 python -m venv venv
